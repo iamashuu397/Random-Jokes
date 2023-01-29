@@ -1,0 +1,30 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+h1.title {
+  padding-top: 25px;
+  text-align: center;
+}
+
+h3.joke {
+  padding-top: 10px;
+  text-align: center;
+}
+
+div.buttondiv {
+  padding-top: 10px;
+  text-align: center;
+}
+
+button {
+  height: 30px;
+  width: 120px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+h4.github {
+  padding-top: 100px;
+  text-align: center;
+}
